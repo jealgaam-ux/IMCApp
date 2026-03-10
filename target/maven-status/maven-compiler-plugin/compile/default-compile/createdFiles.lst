@@ -1,0 +1,14 @@
+com\imc\controller\CalculoIMCServlet.class
+com\imc\dao\UsuarioDAO.class
+com\imc\model\IMCCalculadora.class
+com\mycompany\imcapp\JakartaRestConfiguration.class
+com\imc\dao\Conexion.class
+com\imc\controller\LoginServlet.class
+com\imc\dao\RegistroIMCDAO.class
+com\imc\util\PasswordUtil.class
+com\imc\controller\LogoutServlet.class
+com\imc\controller\RegistroServlet.class
+com\imc\model\Usuario.class
+com\imc\controller\HistorialRestServlet.class
+com\imc\model\RegistroIMC.class
+com\mycompany\imcapp\resources\JakartaEE10Resource.class
